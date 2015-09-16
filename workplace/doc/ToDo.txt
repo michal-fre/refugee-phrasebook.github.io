@@ -23,3 +23,11 @@
 # quite a lot of ideas and time to implement them
 
 # latex: pdf should be saved in some latex-directory
+
+# latex: the input-data is hardcoded
+
+# latex: the number of rows is hardcoded 
+
+# latex: add creation date and time - users can see if they have the most current version
+
+# test if all prerequisites are met 

@@ -20,11 +20,11 @@ the columns are numbered
 
 the last one for the moment is 07_replace_shxxx.sh
 
-after you run all scripts you may run latex
-
+after you run all scripts you may run latex - tested using TeX Live 2015 on Mac using XeLaTex
+on first run there might be some message about refreshing fonts-database - this might take a moment
 there is an example document scripts/rpb-test-longtable.tex
 it will produce a rpb-test-longtable.pdf
-tested with XeLaTex
+please rerun it always twice to refresh all references in the pdf
 
 CHANGE LANGUAGE:
 edit 05_get_the_columns.sh
