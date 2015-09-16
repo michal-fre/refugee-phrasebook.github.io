@@ -15,5 +15,5 @@ sed 's/	/ \& /g' ../temp/medical.h.column 	> ../temp/medical.h.amp
 sed 's/	/ \& /g' ../temp/multi.d.column 	> ../temp/multi.d.amp
 sed 's/	/ \& /g' ../temp/multi.h.column 	> ../temp/multi.h.amp
 
-sed 's/	/ \& /g' ../temp/short_1h.d.column	> ../temp/short_1h.d.amp
-sed 's/	/ \& /g' ../temp/short_1h.h.column	> ../temp/short_1h.h.amp
+sed 's/	/ \& /g' ../temp/short_1d21.d.column	> ../temp/short_1d21.d.amp
+sed 's/	/ \& /g' ../temp/short_1d21.h.column	> ../temp/short_1d21.h.amp

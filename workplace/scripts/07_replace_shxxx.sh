@@ -55,12 +55,12 @@ sed 's/\\/ \\textbackslash /g'  ../temp/medical.h.1 > ../temp/medical.h.2
 sed 's/$/ \\\\ /g'  ../temp/medical.d.2 > ../temp/medical.d.bs
 sed 's/$/ \\\\ /g'  ../temp/medical.h.2 > ../temp/medical.h.bs
 ###
-sed 's/_/\./g'  ../temp/short_1h.h.amp > ../temp/short_1h.h.1
-sed 's/_/\./g'  ../temp/short_1h.d.amp > ../temp/short_1h.d.1
+sed 's/_/\./g'  ../temp/short_1d21.h.amp > ../temp/short_1d21.h.1
+sed 's/_/\./g'  ../temp/short_1d21.d.amp > ../temp/short_1d21.d.1
 
-sed 's/\\/ \\textbackslash /g'  ../temp/short_1h.d.1 > ../temp/short_1h.d.2
-sed 's/\\/ \\textbackslash /g'  ../temp/short_1h.h.1 > ../temp/short_1h.h.2
+sed 's/\\/ \\textbackslash /g'  ../temp/short_1d21.d.1 > ../temp/short_1d21.d.2
+sed 's/\\/ \\textbackslash /g'  ../temp/short_1d21.h.1 > ../temp/short_1d21.h.2
 
 
-sed 's/$/ \\\\ /g'  ../temp/short_1h.d.2 > ../temp/short_1h.d.bs
-sed 's/$/ \\\\ /g'  ../temp/short_1h.h.2 > ../temp/short_1h.h.bs
+sed 's/$/ \\\\ /g'  ../temp/short_1d21.d.2 > ../temp/short_1d21.d.bs
+sed 's/$/ \\\\ /g'  ../temp/short_1d21.h.2 > ../temp/short_1d21.h.bs
