@@ -1,0 +1,3192 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.15)  16 SEP 2015 03:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**rpb-test-longtable.tex
+(./rpb-test-longtable.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2015/07/22 v2.4d Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2015/09/06 v5925 L3 programming layer (loader) 
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2015/09/06 v5925 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/07/31 v5729 L3 Bootstrap code
+L3 Module: l3names 2015/08/17 v5848 L3 Namespace for primitives
+L3 Module: l3basics 2015/08/28 v5897 L3 Basic definitions
+L3 Module: l3expan 2015/08/28 v5897 L3 Argument expansion
+L3 Module: l3tl 2015/09/02 v5908 L3 Token lists
+L3 Module: l3str 2015/09/05 v5920 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2015/08/24 v5885 L3 Integers
+\c_max_int=\count87
+\l_tmpa_int=\count88
+\l_tmpb_int=\count89
+\g_tmpa_int=\count90
+\g_tmpb_int=\count91
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/08/25 v5891 L3 Control structures
+\g__prg_map_int=\count92
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/08/26 v5893 L3 Experimental token manipulation
+L3 Module: l3prop 2015/08/05 v5777 L3 Property lists
+L3 Module: l3msg 2015/08/25 v5891 L3 Messages
+L3 Module: l3file 2015/08/05 v5786 L3 File and I/O operations
+\l_iow_line_count_int=\count93
+\l__iow_target_count_int=\count94
+\l__iow_current_line_int=\count95
+\l__iow_current_word_int=\count96
+\l__iow_current_indentation_int=\count97
+L3 Module: l3skip 2015/08/26 v5893 L3 Dimensions and skips
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+L3 Module: l3keys 2015/08/20 v5869 L3 Key-value interfaces
+\g__keyval_level_int=\count98
+\l_keys_choice_int=\count99
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
+\c__fp_leading_shift_int=\count100
+\c__fp_middle_shift_int=\count101
+\c__fp_trailing_shift_int=\count102
+\c__fp_big_leading_shift_int=\count103
+\c__fp_big_middle_shift_int=\count104
+\c__fp_big_trailing_shift_int=\count105
+\c__fp_Bigg_leading_shift_int=\count106
+\c__fp_Bigg_middle_shift_int=\count107
+\c__fp_Bigg_trailing_shift_int=\count108
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
+\l__coffin_internal_box=\box31
+\l__coffin_internal_dim=\dimen109
+\l__coffin_offset_x_dim=\dimen110
+\l__coffin_offset_y_dim=\dimen111
+\l__coffin_x_dim=\dimen112
+\l__coffin_y_dim=\dimen113
+\l__coffin_x_prime_dim=\dimen114
+\l__coffin_y_prime_dim=\dimen115
+\c_empty_coffin=\box32
+\l__coffin_aligned_coffin=\box33
+\l__coffin_aligned_internal_coffin=\box34
+\l_tmpa_coffin=\box35
+\l_tmpb_coffin=\box36
+\l__coffin_display_coffin=\box37
+\l__coffin_display_coord_coffin=\box38
+\l__coffin_display_pole_coffin=\box39
+\l__coffin_display_offset_dim=\dimen116
+\l__coffin_display_x_dim=\dimen117
+\l__coffin_display_y_dim=\dimen118
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3candidates 2015/09/03 v5911 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen119
+\l__box_bottom_dim=\dimen120
+\l__box_left_dim=\dimen121
+\l__box_right_dim=\dimen122
+\l__box_top_new_dim=\dimen123
+\l__box_bottom_new_dim=\dimen124
+\l__box_left_new_dim=\dimen125
+\l__box_right_new_dim=\dimen126
+\l__box_internal_box=\box40
+\l__coffin_bounding_shift_dim=\dimen127
+\l__coffin_left_corner_dim=\dimen128
+\l__coffin_right_corner_dim=\dimen129
+\l__coffin_bottom_corner_dim=\dimen130
+\l__coffin_top_corner_dim=\dimen131
+\l__coffin_scaled_total_height_dim=\dimen132
+\l__coffin_scaled_width_dim=\dimen133
+L3 Module: l3luatex 2015/06/30 v5646 L3 Experimental LuaTeX-specific functions
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
+File: l3unicode-data.def 2015/07/20 v5676 L3 Unicode data
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2015/06/30 v5646 L3 Experimental driver: xdvipdfmx
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2015/09/06 v5925 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count109
+\l__xparse_m_args_int=\count110
+\l__xparse_mandatory_args_int=\count111
+\l__xparse_processor_int=\count112
+\l__xparse_v_nesting_int=\count113
+)
+\l_fontspec_script_int=\count114
+\l_fontspec_language_int=\count115
+\l_fontspec_strnum_int=\count116
+\l__fontspec_tmpa_dim=\dimen134
+\l__fontspec_tmpb_dim=\dimen135
+\l__fontspec_tmpc_dim=\dimen136
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+Package: fontspec-patches 2015/07/22 v2.4d Font selection for XeLaTeX and LuaLa
+TeX
+LaTeX Info: Redefining \em on input line 49.
+LaTeX Info: Redefining \emph on input line 57.
+LaTeX Info: Redefining \- on input line 60.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 155.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 159.
+.................................................
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2015/07/22 v2.4d Font selection for XeLaTeX and LuaLaTe
+X
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/local/texlive/2015/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count117
+\tipasavetokens=\toks14
+\tipachecktokens=\toks15
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2015/03/25 v4.04 LaTeX color/graphics driver for XeTeX (TeX Liv
+e/RRM/JK)
+))
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 42.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'om' on line 44.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'om' on line 54.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'om' on line 64.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'om' on line 74.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'om' on line 88.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'om' on line 96.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'om' on line 104.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'om' on line 112.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mom' on line 126.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mom' on line 141.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 155.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 210.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 221.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 229.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 237.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 261.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 270.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 275.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 301.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 321.
+.................................................
+\l__fontspec_tmp_int=\count118
+LaTeX Info: Redefining \itshape on input line 2230.
+LaTeX Info: Redefining \slshape on input line 2235.
+LaTeX Info: Redefining \scshape on input line 2240.
+LaTeX Info: Redefining \upshape on input line 2245.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+\g__file_internal_ior=\read1
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Arial Unicode MS does not contain any OpenType `Script' information.
+.................................................
+
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Common' (+liga) not available for font 'Arial
+* Unicode MS' with script '' and language ''.
+*************************************************
+\g__fontspec_family_ArialUnicodeMS_int=\count119
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Arial Unicode MS/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Arial Unicode MS/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Arial Unicode MS/I (it probably doesn't exist).
+.................................................
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=Common' (+liga) not available for font 'Arial
+* Unicode MS' with script '' and language ''.
+*************************************************
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'ArialUnicodeMS(0)' created for font 'Arial Unicode MS' with
+. options [Ligatures=TeX,Ligatures={Common}].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"Arial Unicode MS/OT:mapping=tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+.................................................
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen139
+\Hy@linkcounter=\count120
+\Hy@pagecounter=\count121
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count122
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count123
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen140
+\Fld@menulength=\count124
+\Field@Width=\dimen141
+\Fld@charsize=\dimen142
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count125
+\c@Item=\count126
+\c@Hfootnote=\count127
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box41
+\c@Hy@AnnotLevel=\count128
+\HyField@AnnotCount=\count129
+\Fld@listcount=\count130
+\c@bookmark@seq@number=\count131
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip49
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count132
+\Gm@cntv=\count133
+\c@Gm@tempcnt=\count134
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count135
+\LTcapwidth=\dimen151
+\LT@head=\box42
+\LT@firsthead=\box43
+\LT@foot=\box44
+\LT@lastfoot=\box45
+\LT@cols=\count136
+\LT@rows=\count137
+\c@LT@tables=\count138
+\c@LT@chunks=\count139
+\LT@p@ftn=\toks18
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count140
+\@cmidlb=\count141
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count142
+\@lastruleclass=\count143
+\@thisrulewidth=\dimen164
+)
+
+LaTeX Warning: Unused global option(s):
+    [paper=a4,fontsize10pt,headings=normal,version=last,headinclude=false,footi
+nclude=false].
+
+(./rpb-test-longtable.aux)
+\openout1 = `rpb-test-longtable.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 96.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 96.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 96.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 96.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 96.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 96.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 96.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 96.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 96.
+LaTeX Font Info:    Redeclaring math accent \check on input line 96.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 96.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 96.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 96.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 96.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 96.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/ArialUnicodeMS(0)/m/n on input line
+ 96.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 96.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/ArialUnicodeMS(0)/m/n on input lin
+e 96.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/ArialUnicodeMS(0)/m/n --> EU1/ArialUnicodeMS(0)/m/n
+ on input line 96.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/ArialUnicodeMS(0)/m/it on input li
+ne 96.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/ArialUnicodeMS(0)/bx/n on input li
+ne 96.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 96.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 96.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/ArialUnicodeMS(0)/m/n --> EU1/ArialUnicodeMS(0)/bx/
+n on input line 96.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/ArialUnicodeMS(0)/bx/it on input 
+line 96.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 96.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 96.
+\AtBeginShipoutBox=\box46
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+LaTeX Info: Redefining \color on input line 81.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 142.
+)
+Package hyperref Info: Link coloring ON on input line 96.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count144
+)
+LaTeX Info: Redefining \ref on input line 96.
+LaTeX Info: Redefining \pageref on input line 96.
+LaTeX Info: Redefining \nameref on input line 96.
+
+(./rpb-test-longtable.out) (./rpb-test-longtable.out)
+\@outlinefile=\write3
+\openout3 = `rpb-test-longtable.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(42.67912pt, 759.6886pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 512.14963pt, 42.67912pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=759.6886pt
+* \textheight=512.14963pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(../temp/multi_de_en_hu_arab_dari_bos_cro_ser.h.bs
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Syrian pho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\EU1/ArialUnicodeMS(0)/m/n/10 netic/Fusha
+ []
+
+)
+Overfull \hbox (4.84106pt too wide) in alignment at lines 99--103
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+(../temp/multi_de_en_hu_arab_dari_bos_cro_ser.d.bs
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Basic Conversa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 massa Alchayr
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 5--5
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ma‘a ’s-saláma /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 you’re welcome
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 What is your
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 3049) in paragraph at lines 12--12
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں ۔۔۔۔۔۔۔۔ سے آئی
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Αυτός είναι ο
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 15--15
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 hadihi zawjati /di
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (Αυτή είναι) η
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (Αυτά είναι) τα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (Αυτό είναι) το
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Αυτός είναι ο
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 103--21
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Αυτή είναι η
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\EU1/ArialUnicodeMS(0)/m/n/10 mu/Aftós íne o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Αυτός είναι ο
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+\EU1/ArialUnicodeMS(0)/m/n/10 πατέρας μου /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+\EU1/ArialUnicodeMS(0)/m/n/10 Αυτός είναι ο
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 23--23
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 یہ میری والدہ/ امّی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (Το παιδί μου)
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 26--26
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ash’ur bi’l-’atsh /
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 1173) in paragraph at lines 30--30
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Tûwalet/ serşok li
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πού είναι η
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+\EU1/ArialUnicodeMS(0)/m/n/10 τουαλέτα/το
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Bihaja ana
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 31--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I need to take a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے نہانے کی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πρέπει να κάνω
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 32--32
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ayna Bi Istitaa’ati
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 32--32
+\EU1/ArialUnicodeMS(0)/m/n/10 elta7amom / ouin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Li ku derê ez
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 32--32
+\EU1/ArialUnicodeMS(0)/m/n/10 dikarim serê xwe
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 32--32
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Pu boró na káno
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πού μπορώ να
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Bihaja ijra’a
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 35--35
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 باید تلفن کنم (زنگ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Divê ez telefon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πρέπει να
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\EU1/ArialUnicodeMS(0)/m/n/10 τηλεφωνήσω /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\EU1/ArialUnicodeMS(0)/m/n/10 Πρέπει να κάνω
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 دعا کردن (نماز
+ []
+
+
+Underfull \hbox (badness 3260) in paragraph at lines 37--37
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں کہاں نماز پڑھ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Li ku derê ez
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\EU1/ArialUnicodeMS(0)/m/n/10 dikarim nimêj
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 37--37
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Pu boró na pros-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πού μπορώ να
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 من وين بقدر
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Where can I
+ []
+
+
+Underfull \hbox (badness 3179) in paragraph at lines 38--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں کہاں ۔۔۔۔ خرید
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 38--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ez dikarim li ku
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Pu boró na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πού μπορώ να
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Where can I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ۔۔۔۔۔ کہاں ملےگا /
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 39--39
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ez dikarim li ku
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πού μπορώ να
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 21--41
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I (we) need to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Prépi na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\EU1/ArialUnicodeMS(0)/m/n/10 kimithó/Prépi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\EU1/ArialUnicodeMS(0)/m/n/10 / πρέπει να
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 43--43
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ayn almetro? /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مٹرو/سب وے/او۔بان
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 44--44
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I don’t have any
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 45--45
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 hal tatakallam al-
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 انگلیسی گپ می
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میری جرمن/انگریزی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ez Elmanî (baş)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Den miláo tóso
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Δεν μιλάω
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\EU1/ArialUnicodeMS(0)/m/n/10 τόσο καλά .....
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Hal yomkenak
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 48--48
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Gelo tu dikarî vê
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Boríte na to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Μπορείτε να το
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 49--49
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la afham, ma bi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Δεν το
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 50--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 an-najda! sá’idni
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 50--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 بچاو! /میری مدد
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 50--50
+\EU1/ArialUnicodeMS(0)/m/n/10 xwe alîkarîya min
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Βοήθεια! /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\EU1/ArialUnicodeMS(0)/m/n/10 Παρακαλώ,
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 51--51
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ma bi-arifsh / Ma
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 52--52
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Matha alathi has-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Κρυώνω / Έχω
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 54--54
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana sa’íd / Mab-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Χαίρομαι / είμαι
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Είμαι λυπημένος
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+\EU1/ArialUnicodeMS(0)/m/n/10 (m) Είμαι
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 58--58
+\EU1/ArialUnicodeMS(0)/m/n/10 Mouchkila / Mou
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana bihaja ila
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\EU1/ArialUnicodeMS(0)/m/n/10 اپائینڈمنٹ/ملاقات
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Χρειάζομαι ένα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 wyna raqm el-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Where is room
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 اتاق نمبر ـــــــ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Odeya bi ....
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πού είναι το
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 41--61
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[1
+
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 wain markaz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Navenda serlê-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Pu vriskete
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\EU1/ArialUnicodeMS(0)/m/n/10 to kèntro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πού βρίσκεται
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+\EU1/ArialUnicodeMS(0)/m/n/10 το κέντρο
+ []
+
+
+Overfull \hbox (12.68867pt too wide) in paragraph at lines 61--62
+\EU1/ArialUnicodeMS(0)/m/n/10 απογραφής/μητρώου;| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Yatawajab
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\EU1/ArialUnicodeMS(0)/m/n/10 A’alaykoum al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Prépi na per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πρέπει να
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\EU1/ArialUnicodeMS(0)/m/n/10 περιμένετε
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\EU1/ArialUnicodeMS(0)/m/n/10 [pl]/ πρέπει να
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Kam yatawajab
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\EU1/ArialUnicodeMS(0)/m/n/10 Aalayna al’intizar
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 63--63
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 How long do we
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ciqasî em
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\EU1/ArialUnicodeMS(0)/m/n/10 mecburin li vir
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πόσο πρέπει να
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 69--69
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 the day after to-
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 70--70
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Tin epomeni vdo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Την επόμενη
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 4328) in paragraph at lines 71--71
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ez ê di demeke
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Θα επιστρέψω
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 واحد، اثنان، ثلاثة،
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\EU1/ArialUnicodeMS(0)/m/n/10 أربعة خمسة، ستة،
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 72--72
+\EU1/ArialUnicodeMS(0)/m/n/10 سبعة، ثمانية، تسعة،
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 wahad, itnen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\EU1/ArialUnicodeMS(0)/m/n/10 talateh, arba’a,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\EU1/ArialUnicodeMS(0)/m/n/10 khamseh, sitteh,
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 one, two, three,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\EU1/ArialUnicodeMS(0)/m/n/10 four, five, six,
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ایک، دو، تین، چار،
+ []
+
+
+Overfull \hbox (82.90352pt too wide) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 یک،دو،سه،چهار،پنج،شش،هفت،هشت،نه،ده| 
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Yek, du, sê, çar,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\EU1/ArialUnicodeMS(0)/m/n/10 pênc, şeş, heft,
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 72--73
+\EU1/ArialUnicodeMS(0)/m/n/10 (5) πέντε, (6) έξι,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\EU1/ArialUnicodeMS(0)/m/n/10 (9) εννέα, (10)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 الإثنين, الثلاثاء.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\EU1/ArialUnicodeMS(0)/m/n/10 الاربعاء, الخميس,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Monday, Tues-
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 73--73
+\EU1/ArialUnicodeMS(0)/m/n/10 day, Wednesday,
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 73--73
+\EU1/ArialUnicodeMS(0)/m/n/10 Thursday, Friday,
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 73--73
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 سوموار، منگل، بدھ،
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 73--73
+\EU1/ArialUnicodeMS(0)/m/n/10 شنبه. جمعه. روز
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 duşem,
+ []
+
+
+Overfull \hbox (63.14766pt too wide) in paragraph at lines 73--73
+\EU1/ArialUnicodeMS(0)/m/n/10 seşem,çarşem,pênçşem,în,şemî,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Deftéra, Tríti,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\EU1/ArialUnicodeMS(0)/m/n/10 Tetárti, Pémpti,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Δευτέρα, Τρίτη,
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 73--74
+\EU1/ArialUnicodeMS(0)/m/n/10 Τετάρτη, Πέμπτη,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+\EU1/ArialUnicodeMS(0)/m/n/10 Παρασκευή,
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 74--74
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 كانون ثاني, شباط,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 آذار, نيسان, ايار,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 حزيران, تموز, آب,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 ايلول, تشرين أول,
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 تشرين ثاني, كانون
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 September, Oc-
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 tober, November,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 جنوری، فروری،
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 مارچ، اپریل، مئی،
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 ستمبر، اکتوبر، نومبر،
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 74--74
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 çile, sibat, adar,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 nîsan, gulan,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 hezîran,tîrmeh,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 tebax,îlon, cot-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 meh, mijdar,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ianuários,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 Fevrouários,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 Mártios, Aprílios,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 Máios, Iúnios,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 Iúlios, Ávgustos,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 Septémvrios,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 Októvrios,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 Noémvrios,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ιανουάριος,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\EU1/ArialUnicodeMS(0)/m/n/10 Φεβρουάριος,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\EU1/ArialUnicodeMS(0)/m/n/10 Μάρτιος,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\EU1/ArialUnicodeMS(0)/m/n/10 Απρίλιος, Μάιος,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\EU1/ArialUnicodeMS(0)/m/n/10 Ιούνιος, Ιούλιος,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\EU1/ArialUnicodeMS(0)/m/n/10 Αύγουστος,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\EU1/ArialUnicodeMS(0)/m/n/10 Σεπτέμβριος,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\EU1/ArialUnicodeMS(0)/m/n/10 Οκτώβριος,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\EU1/ArialUnicodeMS(0)/m/n/10 Νοέμβριος,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Bahtaj doktor /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے ڈاکٹر کی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Χρειάζομαι ένα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Lastu ’ala ma
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 79--79
+\EU1/ArialUnicodeMS(0)/m/n/10 yuram/ Sihti mish
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 79--79
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میری طبعیت ٹھیک
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mu érhete
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Μου έρχεται
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 80--80
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I am not feeling
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Den esthánome
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Δεν αισθάνομαι
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 61--81
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[3]
+Underfull \hbox (badness 7814) in paragraph at lines 81--81
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Íme árostos [m]/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Eίμαι άρρωστος
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+\EU1/ArialUnicodeMS(0)/m/n/10 (m) / Είμαι
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (Zarokê min)
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 82--82
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 To pedí mu íne
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 84--84
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ahis bi dowar /
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 84--84
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے اس کی وجہ
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 84--84
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ého mia allergikí
+ []
+
+
+Underfull \hbox (badness 4328) in paragraph at lines 87--87
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Insulin ji bo min
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Χρειάζομαι
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 لقد تم اغتصابي /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Lakad tamma
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 88--88
+\EU1/ArialUnicodeMS(0)/m/n/10 Ightissabi / Egh-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πονάει η κοιλιά
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 93--93
+\EU1/ArialUnicodeMS(0)/m/n/10 min soudaa fi al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I have a sore
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 96--96
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 A’ndi alam fi al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 tefli indouhou
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 99--99
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 To pedí mu éhi
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 81--101
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[4]
+Underfull \hbox (badness 6725) in paragraph at lines 104--104
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 vaginal yeast in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Kolpikí myk-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Κολπική
+ []
+
+
+Overfull \hbox (14.68575pt too wide) in paragraph at lines 104--105
+\EU1/ArialUnicodeMS(0)/m/n/10 μυκητίαση/καντιντίαση| 
+ []
+
+
+Underfull \hbox (badness 3323) in paragraph at lines 105--105
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 کھلاڑی کے پاؤں کا
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 115--115
+\EU1/ArialUnicodeMS(0)/m/n/10 halal / Had Akel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Είναι το φαγητό
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana ’endi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Alerjîya min ji
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 101--121
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la akol lahem
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 121--121
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں سور کا گوشت
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 من گوشت خوک
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ez goştê beraz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 گوشت و ماهی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ez vejeteryaneke
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 íme hortofágos.
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 122--123
+\EU1/ArialUnicodeMS(0)/m/n/10 Δεν τρώω κρέας
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ویگن هستم، هیچ
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 121--141
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[6]
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 eggplant (US) /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Tamatem / Ba-
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 154--154
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 legumes / pulses
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Khobz / Kaak /
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 156--156
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 bread, cakes and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ψωμί, γλυκά,
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 141--161
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[7]
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 quark / cottage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 cottage cheese
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 164--164
+\EU1/ArialUnicodeMS(0)/m/n/10 (same as in en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ζυμαρικά,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mouthalajat /
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 161--181
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 glass (to drink
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 trousers (UK) /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 jumper (UK) /
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 181--201
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mithala/ sham-
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 210--210
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Hamalat Sader /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 μπρασελέ,
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 201--221
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[9]
+Underfull \hbox (badness 1931) in paragraph at lines 225--225
+\EU1/ArialUnicodeMS(0)/m/n/10 جس کے سہارے سے
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 mobile phone /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Hassoub/ kom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 internet connec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 διαδικτυακή
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 221--241
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 242--242
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ٹوتھ پہسٹ / دنت
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 247--247
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 tissue / handker-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ridator/ shufaj /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 klimatismos/ air
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 241--261
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 paints / painting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 chró̱mata zo̱-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 χρώματα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 τετράδιο
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 261--281
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 281--281
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 epitrapezio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 επιτραπέζιο
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 291--291
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 stroller / buggy /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Bijîşkê di-
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 281--301
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 karmendê ten-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 caretaker /
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 308--308
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 kathigitis (man) /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 καθηγητής /
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 301--321
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Nature and
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 321--341
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[13]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 341--361
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 361--381
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 megalos (male),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\EU1/ArialUnicodeMS(0)/m/n/10 megali (female),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 μεγάλος, μεγάλη,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--388
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 mikros (male)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--388
+\EU1/ArialUnicodeMS(0)/m/n/10 / mikri (fe-
+ []
+
+
+Overfull \hbox (5.89668pt too wide) in paragraph at lines 388--388
+\EU1/ArialUnicodeMS(0)/m/n/10 male)/mikro(neutral)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\EU1/ArialUnicodeMS(0)/m/n/10 (female) /kodo
+ []
+
+
+Overfull \hbox (1.47774pt too wide) in paragraph at lines 389--390
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 κοντός/κοντή/κοντό| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--390
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 psilos
+ []
+
+
+Overfull \hbox (24.79317pt too wide) in paragraph at lines 390--390
+\EU1/ArialUnicodeMS(0)/m/n/10 (male)/psili(female)/psilo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ψηλός/ψηλή/ψηλό
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 fthinos (male) /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+\EU1/ArialUnicodeMS(0)/m/n/10 fthini (female)/
+ []
+
+
+Overfull \hbox (11.2336pt too wide) in paragraph at lines 391--392
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 φθηνός/φθηνή/φθηνό| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--392
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 akrivos (male),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--392
+\EU1/ArialUnicodeMS(0)/m/n/10 akrivi (female),
+ []
+
+
+Overfull \hbox (16.30196pt too wide) in paragraph at lines 392--393
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ακριβός,ακριβή,ακριβό| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ηλικιωμένος /
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 381--401
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 401--421
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[15]
+Underfull \hbox (badness 7814) in paragraph at lines 429--429
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 xwîngerm, heval-
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 421--441
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Direction, places
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Odigies,topi ke
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 457--458
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Οδηγίες,τόποι και
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 441--461
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--470
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 pharmacy /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 nexweşxane,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mawkef
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 rawestgeha oto-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mahtet metro/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
+\EU1/ArialUnicodeMS(0)/m/n/10 Mahtet qetar al
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Al mahta al
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 479--479
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 main railway sta-
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 479--479
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 stasyona navendî
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+\EU1/ArialUnicodeMS(0)/m/n/10 ya trenê/xeraja
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 461--481
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Markaz al
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 485--485
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 city center (US) /
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 488--488
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 bookstore / book-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 دکان کتاب / کتاب
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 پبلک /عوامی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 veguhastina
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 δημόσια
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 481--501
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ta’era Mer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--502
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 airplane (US) /
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 504--504
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 truck (US) / lorry
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Van/Shahneh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 جنسی اور صنفی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Zayend û nas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Σεξουαλική
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 515--515
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 تم اضطهادي بسبب
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Tamma Edtihadi
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 515--515
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I’m being perse-
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 515--515
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ميں اپنی جنس کی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ez ji bo nas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+\EU1/ArialUnicodeMS(0)/m/n/10 suelî hatime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Διώκομαι για το
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 516--516
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 تغرضت للملاحقة أو
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Taradet llmula-
+ []
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 516--516
+\EU1/ArialUnicodeMS(0)/m/n/10 haka wal Idtihad
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 516--516
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I’m being perse-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+\EU1/ArialUnicodeMS(0)/m/n/10 cuted for being
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ez ji ber nas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+\EU1/ArialUnicodeMS(0)/m/n/10 nameya xwe ya
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+\EU1/ArialUnicodeMS(0)/m/n/10 trans-zayendî
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Διώκομαι επειδή
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--517
+\EU1/ArialUnicodeMS(0)/m/n/10 man fi makan
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 518--518
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana amel amaliet
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 518--518
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I am transitioning
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 518--518
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ez emeliyate za-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+\EU1/ArialUnicodeMS(0)/m/n/10 yend guhertinê
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 518--518
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ime se diadikasia
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 519--519
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 انا باخد تستسترون /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana bakhod /
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 519--519
+\EU1/ArialUnicodeMS(0)/m/n/10 Ana Lazimni Her-
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 519--519
+\EU1/ArialUnicodeMS(0)/m/n/10 mon Testosteron,
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 519--519
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I take / I need
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 519--519
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ميں ليتا ہوں مجھے
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+\EU1/ArialUnicodeMS(0)/m/n/10 ضرورت ہے ہارمون
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+\EU1/ArialUnicodeMS(0)/m/n/10 / ٹيسٹوسٹيرون /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 من هورمون /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+\EU1/ArialUnicodeMS(0)/m/n/10 تستوسترون /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+\EU1/ArialUnicodeMS(0)/m/n/10 استروجن / مصرف
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Pêwistiya
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+\EU1/ArialUnicodeMS(0)/m/n/10 min bi hor-
+ []
+
+
+Overfull \hbox (26.49239pt too wide) in paragraph at lines 519--519
+\EU1/ArialUnicodeMS(0)/m/n/10 mon/testestoron/ostrojen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Perno/hriazome
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+\EU1/ArialUnicodeMS(0)/m/n/10 ormones/ testos-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Παίρνω/χρειάζομαι
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\EU1/ArialUnicodeMS(0)/m/n/10 ορμόνες/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\EU1/ArialUnicodeMS(0)/m/n/10 τεστοστερόνη/
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 520--520
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 أنا بحاجة لأبر، جيل،
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 520--520
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I need (hormone)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے ضرورت ہے
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 520--520
+\EU1/ArialUnicodeMS(0)/m/n/10 (ہارمون) انجکشن /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Hewcedariya min
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+\EU1/ArialUnicodeMS(0)/m/n/10 bi derzî/jel/heban
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Hriazome en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+\EU1/ArialUnicodeMS(0)/m/n/10 esi/gel/ hapia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Χρειάζομαι
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\EU1/ArialUnicodeMS(0)/m/n/10 ένεση/τζελ/ χάπια
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 501--521
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 وين في مراجعة
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 (مساعدة) للمثليين
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 جنسياً أو عابري
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Win fi Muraga’
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 (Musa’de) llmuth-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 leen jenseeyan/
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 521--521
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Is there a coun-
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 مشورہ دينے والا ہے
+ []
+
+
+Overfull \hbox (3.69453pt too wide) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 homeseksuel/trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 zayenda heye
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Iparhi kapios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 simvulos pu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 idikevete se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 zitimata filu?
+ []
+
+
+Overfull \hbox (28.13301pt too wide) in paragraph at lines 521--521
+\EU1/ArialUnicodeMS(0)/m/n/10 (omofilofilia,diemfilikotita)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Υπάρχει κάποιος
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+\EU1/ArialUnicodeMS(0)/m/n/10 σύμβουλος που
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+\EU1/ArialUnicodeMS(0)/m/n/10 ειδικεύεται σε
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+\EU1/ArialUnicodeMS(0)/m/n/10 ζητήματα φύλου;
+ []
+
+
+Overfull \hbox (53.16719pt too wide) in paragraph at lines 521--522
+\EU1/ArialUnicodeMS(0)/m/n/10 (ομοφυλοφιλία,διεμφυλικότητα)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+\EU1/ArialUnicodeMS(0)/m/n/10 bel Muanath /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Please address
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 522--522
+\EU1/ArialUnicodeMS(0)/m/n/10 me as a man /
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 522--522
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 براے مہربانی مجھے
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 522--522
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ji kerema xwe bi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Parakalo na me
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+\EU1/ArialUnicodeMS(0)/m/n/10 prosfonite os
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 522--523
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Παρακαλώ να με
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+\EU1/ArialUnicodeMS(0)/m/n/10 προσφωνείτε ως
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 523--523
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana ourid Fahssi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\EU1/ArialUnicodeMS(0)/m/n/10 min kebal Rajol/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\EU1/ArialUnicodeMS(0)/m/n/10 examined by a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Tha ithela na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\EU1/ArialUnicodeMS(0)/m/n/10 me eksetasei
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\EU1/ArialUnicodeMS(0)/m/n/10 adras/gineka
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Θα ήθελα να
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
+\EU1/ArialUnicodeMS(0)/m/n/10 με εξετάσει
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
+\EU1/ArialUnicodeMS(0)/m/n/10 άντρας/γυναίκα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--524
+\EU1/ArialUnicodeMS(0)/m/n/10 bel Muanath /
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 525--525
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana ourid Fahssi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--525
+\EU1/ArialUnicodeMS(0)/m/n/10 min kebal Rajol/
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 536--536
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Khlial yawm wa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--536
+\EU1/ArialUnicodeMS(0)/m/n/10 hed / Beyoum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Khilal sa’a wah-
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 521--541
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[19] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 549--549
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 pants (US) /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
+\EU1/ArialUnicodeMS(0)/m/n/10 (female) /kodo
+ []
+
+
+Overfull \hbox (1.47774pt too wide) in paragraph at lines 555--556
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 κοντός/κοντή/κοντό| 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 541--561
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[21]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 561--581
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 581--601
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[22]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 601--621
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 621--641
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[23]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 641--661
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 661--681
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[24]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 681--701
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[25]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 701--721
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 721--741
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[26]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 741--761
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 761--781
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[27]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 781--801
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 801--821
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[28]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 821--841
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 841--861
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[29]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 861--881
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 881--901
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[30]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 901--921
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[31]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 921--941
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 941--961
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[32]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 961--981
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 981--1001
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[33]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1001--1021
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1021--1041
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[34]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1041--1061
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1061--1081
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[35]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1081--1101
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1101--1121
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[36]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1121--1141
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1141--1161
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[37]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1161--1181
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[38]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1181--1201
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1201--1221
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[39]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1221--1241
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1241--1261
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[40]
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1261--1281
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1281--1301
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[41])
+Overfull \hbox (4.84106pt too wide) in alignment at lines 1301--105
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[42]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+ [43]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+ (./rpb-test-longtable.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+ ) 
+Here is how much of TeX's memory you used:
+ 21384 strings out of 493706
+ 399588 string characters out of 6145769
+ 489870 words of memory out of 5000000
+ 24641 multiletter control sequences out of 15000+600000
+ 4064 words of font info for 23 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 46i,5n,65p,10369b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on rpb-test-longtable.pdf (43 pages).

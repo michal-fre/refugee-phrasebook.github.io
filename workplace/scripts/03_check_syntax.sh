@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
 echo "we will check the data if it contains any symbols that might stop latex from working"
