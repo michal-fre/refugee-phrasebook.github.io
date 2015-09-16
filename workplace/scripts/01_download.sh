@@ -13,7 +13,7 @@ wget -q \
 
 wget -q \
 "https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/export?format=tsv" \
--O ../download/tsv/MPfR.tsv
+-O ../download/tsv/mpfr.tsv
 
 wget -q \
 "https://docs.google.com/spreadsheets/d/1H2b1vFHTM5PDXu7bAVJqw9giF8Tyn7bLcw9WqgIq3Rs/export?format=tsv" \

@@ -1,12 +1,25 @@
 #!/bin/sh
 
+echo "ATTENTION"
+echo "the colum-nmbers differ in every document"
+echo "please look up the column-numbers"
 
 # this is really dirty :)
 
-# this is multi_de_en_hu_arab_dari_bos_cro_ser
-#cat ../temp/multi.headings |cut -f 4,20,25,39,1,6 > ../temp/multi_de_en_hu_arab_dari_bos_cro_ser.h.r
-#cat ../temp/multi.data |cut -f 4,20,25,39,1,6 > ../temp/multi_de_en_hu_arab_dari_bos_cro_ser.d.r
+# todo: we should split it to single columns and join them later
 
-# this is
-cat ../temp/multi.headings |cut -f 2,5,6,14,20,32,41,42 > ../temp/multi.h.c
-cat ../temp/multi.data |cut -f   2,5,6,14,20,32,41,42   > ../temp/multi.d.c
+
+cat ../temp/mpfr.headings 	|cut -f 2,5,6,14	> ../temp/mpfr.d.column
+cat ../temp/mpfr.data 		|cut -f 2,5,6,14 	> ../temp/mpfr.h.column
+
+cat ../temp/jur.data 		|cut -f 2,5,6,14   	> ../temp/jur.d.column
+cat ../temp/jur.headings 	|cut -f 2,5,6,14 	> ../temp/jur.h.column
+
+cat ../temp/medical.data 	|cut -f 2,5,6,14   	> ../temp/medical.d.column
+cat ../temp/medical.headings 	|cut -f 2,5,6,14 	> ../temp/medical.h.column
+
+cat ../temp/multi.data 		|cut -f 2,5,6,14   	> ../temp/multi.d.column
+cat ../temp/multi.headings 	|cut -f 2,5,6,14 	> ../temp/multi.h.column
+
+cat ../temp/short_1h.data 	|cut -f 2,5,6,14   	> ../temp/short_1h.d.column
+cat ../temp/short_1h.headings 	|cut -f 2,5,6,14 	> ../temp/short_1h.h.column

@@ -10,7 +10,7 @@ echo "this is the medical"
 head -3 ../download/tsv/medical.tsv  |tail -1  |tr -s '\t' '\n'|nl
 
 echo "this is the medical - MPfR"
-head -3 ../download/tsv/MPfR.tsv  |tail -1  |tr -s '\t' '\n'|nl
+head -3 ../download/tsv/mpfr.tsv  |tail -1  |tr -s '\t' '\n'|nl
 
 echo "this is the multi"
 head -2 ../download/tsv/multi.tsv  |tail -1  |tr -s '\t' '\n'|nl

@@ -1,3 +1,10 @@
+!!!
+ 
+JUR not working as characters need proper escaping
+MPFR - headings missing
+
+CHANGE TO PROPER FONT INSTALLED BY DEFAULT ON SYSTEM - NEED OF INSTALL MISSING FONTS IS UGLY
+
 # split the data to export single rows
 
 # cleanup data as there are unused lines
