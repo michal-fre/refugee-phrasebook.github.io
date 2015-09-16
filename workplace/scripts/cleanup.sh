@@ -20,3 +20,7 @@ rm ./rpb-test-multi.log
 rm ./rpb-test-multi.out
 rm ./rpb-test-multi.synctex.gz
 
+echo "PLEASE MOVE THE PDF to a different location before you commit to git or upload the scripts"
+echo "this keeps the source smaller"
+
+mv ./rpb-test-multi.pdf ../../../
