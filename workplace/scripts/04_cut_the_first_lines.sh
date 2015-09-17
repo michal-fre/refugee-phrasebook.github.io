@@ -12,11 +12,11 @@ sed '/^[[:space:]]*$/d' ../download/tsv/short_1d21.tsv	> ../download/tsv/short_1
 
 # striptease
 
-tail -n +3 ../download/tsv/jur.tsv2      > ../temp/jur.tail
+tail -n +2 ../download/tsv/jur.tsv2      > ../temp/jur.tail
 tail -n +3 ../download/tsv/medical.tsv2  > ../temp/medical.tail
-tail -n +3 ../download/tsv/mpfr.tsv2     > ../temp/mpfr.tail
+tail -n +2 ../download/tsv/mpfr.tsv2     > ../temp/mpfr.tail
 tail -n +2 ../download/tsv/multi.tsv2    > ../temp/multi.tail
-tail -n +3 ../download/tsv/short_1d21.tsv2 > ../temp/short_1d21.tail
+tail -n +2 ../download/tsv/short_1d21.tsv2 > ../temp/short_1d21.tail
 #tail -n +3 ../download/tsv/short_1d21.tsv2 > ../temp/short_1ipk.tail
 
 echo "cut the headings"
